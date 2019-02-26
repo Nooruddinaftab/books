@@ -1,0 +1,26 @@
+1.	Modern c++ programming with Test Driven Development by Jeff Langr.
+2.	Pragmatic Programmers by Andrew Hunt.
+3.	Refactoring_improving_the_design_of_existing_code
+4.	Manning The Mikado method by Ola Ellnestam and Daniel Brolund.
+5.	Extreme Programming Explained.
+6.	Test-Driven Development for Embedded C [Grenning 2011-05-05]
+7.	The Mythical Man Month F Brooks
+8.	Implementation Patterns - Kent Beck
+9.	Code Simplicity - Max Kanat-Alexander
+10.	Working Effectively with Legacy Code - Michael C. Feathers.
+11.	growing_object-oriented_software_guided_by_tests.
+12.	Clean Code Collection - Robert C. Martin
+13.	Clean Architecture_ A Craftsman's Guide to - Robert C. Martin
+14.	Efficient c++ programming techniques
+15.	Erich Gamma, Richard Helm, Ralph Johnson, John M. Vlissides-Design Patterns_ Elements of Reusable Object-Oriented Software
+16.	Bruce Powel Douglass-Real-Time Design Patterns_ Robust Scalable Architecture for Real-Time Systems
+17.	M. Fowler. Analysis Patterns Reusable Object Models
+18.	Scott Meyers-Effective Modern C++_ 42 Specific Ways to Improve Your Use of C++11 and C++14
+19.	[Working Effectively with Legacy Code (Robert C. Martin Series) Kindle Edition by Michael Feathers - 2005]
+20.	Scott Meyer’s.Effective.CPP.3rd.Edition.May.2005
+21.	Object Oriented Software Construction-Meyer
+22.	Beginning Game Programming M Dawson
+23.	Scott Meyers-Overview of the New C++ (C++ 0x) (2011)
+24.	Agile-Principles-Patterns-and-Practices-in-C-sharp
+25.	Scott Meyers-More Effective C++_ 35 New Ways to Improve Your Programs and Designs-Addison-Wesley Professional (1995)
+26.	xUnit Test Patterns Refactoring Test Code by Gerard Meszaros
