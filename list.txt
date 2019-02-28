@@ -24,3 +24,4 @@
 24.	Agile-Principles-Patterns-and-Practices-in-C-sharp
 25.	Scott Meyers-More Effective C++_ 35 New Ways to Improve Your Programs and Designs-Addison-Wesley Professional (1995)
 26.	xUnit Test Patterns Refactoring Test Code by Gerard Meszaros
+27. Scott Meyers-Effective Modern C++ 2nd edition
